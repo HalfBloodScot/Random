@@ -1,2 +1,2 @@
 # Random
-A static class interface for generating non-cryptographic randomness.
+A C++ static class interface for generating non-cryptographic randomness.
