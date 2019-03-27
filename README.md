@@ -5,7 +5,7 @@ A C++ static class interface for generating non-cryptographic randomness.
 Since Random is only a single header/source class, you can directly add it to your project by downloading the two files and adding `#include "Random.h"` in your project.
 
 ## Example Usage
-`
+``
 #include <iostream>
 #include "Random.h"
 
@@ -18,4 +18,4 @@ int main() {
     
     return 0;
 }
-`
+``
